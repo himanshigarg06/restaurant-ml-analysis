@@ -1,23 +1,41 @@
-# Restaurant Data Analysis & Machine Learning Project
+# 🍽️ Restaurant Data Analysis & Machine Learning Project
 
-## Overview
-This project analyzes restaurant data and applies machine learning techniques to extract insights.
+## 📌 Overview
+This project focuses on analyzing restaurant data and applying machine learning techniques to extract insights and build predictive models.
 
-## Tasks Completed
-- Rating Prediction using Linear Regression
-- Cuisine Classification using Random Forest
-- Location-based Analysis using data visualization
+---
 
-## Results
-- R² Score: 0.51 (Rating Prediction)
-- Classification Accuracy: ~17%
+## 🚀 Tasks Completed
 
-## Tools Used
+### 1. Rating Prediction
+- Built a Linear Regression model
+- Achieved R² score of **0.51**
+
+### 2. Cuisine Classification
+- Used Random Forest Classifier
+- Achieved accuracy of **~17%**
+- Multi-class classification problem
+
+### 3. Location Analysis
+- Visualized restaurant distribution using latitude & longitude
+- Analyzed city-wise ratings and density
+
+---
+
+## 📊 Key Insights
+- Price range and votes influence ratings significantly
+- Certain cuisines dominate predictions due to frequency
+- Restaurant distribution varies across cities
+
+---
+
+## 🛠️ Tech Stack
 - Python
-- Pandas
+- Pandas, NumPy
 - Scikit-learn
-- Matplotlib
-- Seaborn
+- Matplotlib, Seaborn
 
-## Author
-Himanshi 
+---
+
+## 👩‍💻 Author
+Himanshi
