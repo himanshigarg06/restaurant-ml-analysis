@@ -1,4 +1,6 @@
-[![Open in Colab](https://colab.research.google.com/drive/1M53Cd1HjxuK8FSz7_ZUrkqutsYT_deBi?usp=sharing)
+## ▶️ Run on Google Colab
+https://colab.research.google.com/drive/1M53Cd1HjxuK8FSz7_ZUrkqutsYT_deBi?usp=sharing
+
 # 🍽️ Restaurant Data Analysis & Machine Learning Project
 
 ## 📌 Overview
